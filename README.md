@@ -8,6 +8,7 @@ Scientific tools for chemistry
 
 ## Element Analysis Calculator
 
+Calculate the element analysis results of given chemical formula, or guess the formula by entering the results
 
 ## Mass Spectroscopy Prediction
 
