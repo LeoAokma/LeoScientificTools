@@ -1,6 +1,7 @@
 # LeoScientificTools
 Scientific tools for chemistry
 
+This is a code library developed by Jiawei He. It contains all kinds of codes designated for solveing chemistry-related problems in your research
 ## You MUST cite before using it!
 
 
